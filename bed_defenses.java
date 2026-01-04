@@ -1,5 +1,5 @@
 {
-    "EndWoolCorners": [
+    "EndWoolFakeDef": [
         {
             "block": "wool",
             "x": 0,
