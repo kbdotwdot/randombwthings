@@ -1,5 +1,5 @@
 {
-    "EndWoolFakeDef": [
+    "EndWoolFakedef1": [
         {
             "block": "wool",
             "x": 0,
@@ -7,208 +7,201 @@
             "z": 4
         },
         {
+            "block": "end_stone",
+            "x": 0,
+            "y": 0,
+            "z": 3
+        },
+        {
+            "block": "end_stone",
+            "x": 0,
+            "y": 0,
+            "z": 2
+        },
+		{
             "block": "wool",
             "x": 1,
             "y": 0,
             "z": 3
         },
+		{
+            "block": "wool",
+            "x": -1,
+            "y": 0,
+            "z": 3
+        },
         {
+            "block": "end_stone",
+            "x": 1,
+            "y": 0,
+            "z": 2
+        },
+		{
+            "block": "end_stone",
+            "x": -1,
+            "y": 0,
+            "z": 2
+        },
+		{
             "block": "wool",
             "x": -2,
             "y": 0,
             "z": 2
         },
-        {
+		{
             "block": "wool",
-            "x": -2,
+            "x": 2,
             "y": 0,
-            "z": -2
+            "z": 2
         },
-        {
-            "block": "wool",
-            "x": -2,
-            "y": 0,
-            "z": 1
-        },
-        {
+		{
             "block": "wool",
             "x": 2,
             "y": 0,
             "z": 1
         },
-        {
-            "block": "wool",
-            "x": -2,
-            "y": 0,
-            "z": 3
-        },
-        {
-            "block": "wool",
-            "x": -2,
-            "y": 0,
-            "z": 0
-        },
-        {
+		{
             "block": "wool",
             "x": 2,
             "y": 0,
             "z": 0
         },
-        {
-            "block": "end_stone",
-            "x": 0,
-            "y": 0,
-            "z": 2
-        },
-        {
-            "block": "end_stone",
-            "x": 0,
-            "y": 0,
-            "z": 3
-        },
-        {
+		{
             "block": "wool",
-            "x": 0,
-            "y": 1,
-            "z": 3
-        },
-        {
-            "block": "end_stone",
-            "x": 0,
-            "y": 1,
-            "z": 2
-        },
-        {
-            "block": "end_stone",
-            "x": 1,
-            "y": 1,
-            "z": 2
-        },
-        {
-            "block": "end_stone",
-            "x": -1,
-            "y": 1,
-            "z": 2
-        },
-        {
-            "block": "end_stone",
-            "x": -1,
+            "x": -2,
             "y": 0,
             "z": 1
         },
-        {
+		{
+            "block": "wool",
+            "x": -2,
+            "y": 0,
+            "z": 0
+        },
+		{
             "block": "end_stone",
             "x": 1,
             "y": 0,
             "z": 1
         },
-        {
+		{
             "block": "end_stone",
             "x": 1,
             "y": 0,
             "z": 0
         },
-        {
+		{
+            "block": "end_stone",
+            "x": -1,
+            "y": 0,
+            "z": 1
+        },
+		{
             "block": "end_stone",
             "x": -1,
             "y": 0,
             "z": 0
         },
-        {
-            "block": "end_stone",
-            "x": 0,
-            "y": 1,
-            "z": 1
-        },
-        {
-            "block": "end_stone",
-            "x": 0,
-            "y": 1,
-            "z": 0
-        },
-        {
+		{
             "block": "end_stone",
             "x": 0,
             "y": 0,
             "z": -1
         },
-        {
+		{
+            "block": "wool",
+            "x": 0,
+            "y": 1,
+            "z": 3
+        },
+		{
+            "block": "wool",
+            "x": 1,
+            "y": 1,
+            "z": 2
+        },
+		{
+            "block": "wool",
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+		{
+            "block": "wool",
+            "x": 1,
+            "y": 1,
+            "z": 0
+        },
+		{
+            "block": "wool",
+            "x": -1,
+            "y": 1,
+            "z": 2
+        },
+		{
+            "block": "wool",
+            "x": -1,
+            "y": 1,
+            "z": 1
+        },
+		{
+            "block": "wool",
+            "x": -1,
+            "y": 1,
+            "z": 0
+        },
+		{
+            "block": "end_stone",
+            "x": 0,
+            "y": 1,
+            "z": 1
+        },
+		{
+            "block": "end_stone",
+            "x": 0,
+            "y": 1,
+            "z": 0
+        },
+		{
+            "block": "wool",
+            "x": 0,
+            "y": 2,
+            "z": 2
+        },
+		{
+            "block": "wool",
+            "x": 0,
+            "y": 2,
+            "z": 1
+        },
+		{
+            "block": "wool",
+            "x": 0,
+            "y": 2,
+            "z": 0
+        },
+		{
+            "block": "wool",
+            "x": 1,
+            "y": 0,
+            "z": -1
+        },
+		{
+            "block": "wool",
+            "x": -1,
+            "y": 0,
+            "z": -1
+        },
+		{
             "block": "wool",
             "x": 0,
             "y": 0,
             "z": -2
         },
-        {
-            "block": "wool",
-            "x": 1,
-            "y": 0,
-            "z": -1
-        },
-        {
-            "block": "wool",
-            "x": -1,
-            "y": 0,
-            "z": -1
-        },
-        {
-            "block": "wool",
-            "x": -1,
-            "y": 1,
-            "z": 2
-        },
-        {
-            "block": "wool",
-            "x": -1,
-            "y": 1,
-            "z": 1
-        },
-        {
-            "block": "wool",
-            "x": -1,
-            "y": 1,
-            "z": 0
-        },
-        {
-            "block": "wool",
-            "x": 0,
-            "y": 2,
-            "z": 2
-        },
-        {
-            "block": "wool",
-            "x": 0,
-            "y": 2,
-            "z": 1
-        },
-        {
-            "block": "wool",
-            "x": 0,
-            "y": 2,
-            "z": 0
-        },
-        {
+		{
             "block": "wool",
             "x": 0,
             "y": 1,
             "z": -1
-        },
-        {
-            "block": "wool",
-            "x": 1,
-            "y": 1,
-            "z": 2
-        },
-        {
-            "block": "wool",
-            "x": 1,
-            "y": 1,
-            "z": 1
-        },
-        {
-            "block": "wool",
-            "x": 1,
-            "y": 1,
-            "z": 0
         }
-    ]
 }
